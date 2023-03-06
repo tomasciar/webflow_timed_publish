@@ -6,7 +6,7 @@ dotenv.config();
 /**
  * @script
  */
-runAtSpecificTimeOfDay(21, 21, main);
+runAtSpecificTimeOfDay(10, 0, main);
 
 function main() {
   (async () => {
